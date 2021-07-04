@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CleanCSVExport",
+	"Description": "Export CSV with no double quotes",
+	"Category": "Other",
+	"CreatedBy": "Hoyeon Cho",
+	"CreatedByURL": "https://github.com/NavySunKOR",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "CSVExport",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

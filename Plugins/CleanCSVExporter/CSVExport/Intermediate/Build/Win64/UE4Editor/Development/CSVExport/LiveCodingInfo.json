@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CSVExport.cpp.obj": [
+			"CSVExport.cpp.obj",
+			"CSVExportCommands.cpp.obj",
+			"CSVExportStyle.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CSVExport.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealEnginePlugins\Intermediate\Build\Win64\UnrealEnginePluginsEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\UnrealEnginePlugins\Plugins\CleanCSVExporter\CSVExport\Intermediate\Build\Win64\UE4Editor\Development\CSVExport\Module.CSVExport.cpp.obj"
+"C:\UnrealEnginePlugins\Plugins\CleanCSVExporter\CSVExport\Intermediate\Build\Win64\UE4Editor\Development\CSVExport\Default.rc2.res"
+/OUT:"C:\UnrealEnginePlugins\Plugins\CleanCSVExporter\CSVExport\Intermediate\Build\Win64\UE4Editor\Development\CSVExport\UE4Editor-CSVExport.lib"
+/INCLUDE:IMPLEMENT_MODULE_CSVExport
